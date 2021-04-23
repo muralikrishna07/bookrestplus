@@ -1,0 +1,10 @@
+setup.py
+book/__init__.py
+book/bookstore.py
+book/extentions.py
+book/settings.py
+book.egg-info/PKG-INFO
+book.egg-info/SOURCES.txt
+book.egg-info/dependency_links.txt
+book.egg-info/requires.txt
+book.egg-info/top_level.txt
